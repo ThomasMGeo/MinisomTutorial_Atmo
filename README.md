@@ -14,4 +14,4 @@ This paper inspired this work: Ramseyer et al. 2022 [paper](https://agupubs.onli
 
 ## Other Tutorial
 
-A little different look at SOM's, still using MiniSom package written by @taliakurtz [here](https://github.com/taliakurtz/MiniSOM_tutorial/tree/main).
+A little different look at SOM's, still using MiniSom package written by [Talia Kurtz](https://github.com/taliakurtz) [here](https://github.com/taliakurtz/MiniSOM_tutorial/tree/main).
